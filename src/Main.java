@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Mise en évidence de la notion de "exception"
+
 public class Main {
     public static void main(String[] args) {
 
